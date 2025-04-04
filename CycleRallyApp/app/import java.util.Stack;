@@ -1,0 +1,44 @@
+import java.util.Stack;
+
+Datas structures are of 2 types:
+Linear : Linked List, Array
+
+Data structures:
+Linear: list,stack,array
+Non-Linear:tree,graph
+
+List-interface-iterators,list iterators, enumerator,array list,Linked List
+
+Object
+|
+|
+Iterable
+|
+|
+Collection
+|
+List-array,stack,vectors,linkedlist,array list,sorted
+Set-hashmap,hashset
+Queue-priority queue
+
+List<Integer> l1=new LinkedList<Integer>();
+l1.add();
+l1.add();
+l1.add();
+l1.add();
+l1.add();
+l1.add();
+
+While (lt1.hasNEXT()){
+System.out.println(lt1.next());
+}
+while(it1.hasPrevious)
+{
+System.out.println(it2.previous()):
+}
+Linkedlist<object will he >
+
+Stack<Integer> s1=new Stack<>();
+LinkedList<Object>hello=new LinkedList<Object>();
+
+

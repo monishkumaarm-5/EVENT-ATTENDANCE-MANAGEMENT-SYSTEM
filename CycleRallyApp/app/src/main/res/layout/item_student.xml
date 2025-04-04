@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp">
+
+    <!-- Student Name -->
+
+    <!-- Refreshment CheckBox -->
+
+    <!-- Certificate CheckBox -->
+
+    <!-- Medal CheckBox -->
+
+    <TextView
+        android:id="@+id/nameTextView"
+        android:layout_width="match_parent"
+        android:layout_height="71dp"
+        android:layout_marginBottom="8dp"
+        android:text="Student Name"
+        android:textSize="16sp" />
+
+    <CheckBox
+        android:id="@+id/refreshmentCheckBox"
+        android:layout_width="391dp"
+        android:layout_height="67dp"
+        android:layout_marginBottom="8dp"
+        android:text="Refreshment Collected" />
+
+    <CheckBox
+        android:id="@+id/certificateCheckBox"
+        android:layout_width="393dp"
+        android:layout_height="57dp"
+        android:layout_marginBottom="8dp"
+        android:text="Certificate Collected" />
+
+    <CheckBox
+        android:id="@+id/medalCheckBox"
+        android:layout_width="393dp"
+        android:layout_height="59dp"
+        android:text="Medal Collected" />
+
+</LinearLayout>

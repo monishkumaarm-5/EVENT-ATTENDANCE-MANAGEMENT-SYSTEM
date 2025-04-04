@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CycleRallyApp</string>
+    <string name="title_activity_scanner">ScannerActivity</string>
+    <string name="title_activity_distribution">DistributionActivity</string>
+</resources>

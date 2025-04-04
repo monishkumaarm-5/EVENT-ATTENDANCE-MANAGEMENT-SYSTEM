@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842758068808",
+    "project_id": "main-f19f3",
+    "storage_bucket": "main-f19f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842758068808:android:cafd0ec29d4fd0a521967d",
+        "android_client_info": {
+          "package_name": "com.example.cyclerallyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq36VKsDJ57CXluifPovdwaHAukvIjIY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

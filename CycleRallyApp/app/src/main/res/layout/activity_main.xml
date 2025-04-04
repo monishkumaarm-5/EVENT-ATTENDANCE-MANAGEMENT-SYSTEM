@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:gravity="center">
+
+    <!-- Start Check-In Button -->
+    <Button
+        android:id="@+id/startCheckInButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start Check-In"
+        android:textAllCaps="false"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- View Attendance Button -->
+    <Button
+        android:id="@+id/viewAttendanceButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View Attendance"
+        android:textAllCaps="false"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Export Data Button -->
+    <Button
+        android:id="@+id/exportDataButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Export Data"
+        android:textAllCaps="false"/>
+
+</LinearLayout>

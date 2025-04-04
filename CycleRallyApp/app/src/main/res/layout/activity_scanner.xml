@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:gravity="center">
+
+    <!-- Scan Button -->
+
+    <!-- Manual Entry EditText -->
+    <Button
+        android:id="@+id/scanButton"
+        android:layout_width="match_parent"
+        android:layout_height="84dp"
+        android:layout_marginBottom="16dp"
+        android:text="Scan Barcode"
+        android:textAllCaps="false" />
+
+    <EditText
+        android:id="@+id/manualEntryEditText"
+        android:layout_width="match_parent"
+        android:layout_height="89dp"
+        android:layout_marginBottom="16dp"
+        android:hint="Enter Register Number" />
+
+    <!-- Result TextView -->
+    <TextView
+        android:id="@+id/resultTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Scan Result"
+        android:textAlignment="center"
+        android:textSize="18sp"/>
+
+</LinearLayout>
